@@ -1,4 +1,3 @@
-//PREVIOUS CODE
 // const bigLine = '#'.repeat(31);
 // const smallLine = '#'.repeat(5) + ' '.repeat(21) + '#'.repeat(5);
 
